@@ -1,0 +1,291 @@
+{
+    "profiles": [
+        {
+            "name": "New Size",
+            "width": 320,
+            "height": 480,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "New Size",
+            "width": 320,
+            "height": 480,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "1920 X 1200",
+            "width": 1920,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "New Size",
+            "width": 320,
+            "height": 480,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "1920 X 1200",
+            "width": 1920,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "New Size",
+            "width": 320,
+            "height": 480,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "1920 X 1200",
+            "width": 1920,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "New Size",
+            "width": 320,
+            "height": 480,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "1920 X 1200",
+            "width": 1920,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "New Size",
+            "width": 320,
+            "height": 480,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "New Size",
+            "width": 320,
+            "height": 480,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LAPTOP",
+            "width": 1240,
+            "height": 1080,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "New Size",
+            "width": 320,
+            "height": 480,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1280,
+            "height": 1050,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1280,
+            "height": 1050,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1280,
+            "height": 1050,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1280,
+            "height": 1050,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1280,
+            "height": 1050,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1280,
+            "height": 1050,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1280,
+            "height": 1050,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1280,
+            "height": 1050,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1600,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1600,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1600,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1600,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1600,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1600,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1600,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        },
+        {
+            "name": "LapTop",
+            "width": 1600,
+            "height": 1200,
+            "builtIn": false,
+            "fw": "touch"
+        }
+    ]
+}

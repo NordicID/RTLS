@@ -1,0 +1,7 @@
+{
+    "webBuild": {
+        "environment": "testing",
+        "clean": "on",
+        "publishPath": "C:\\wamp64\\www\\RFID_Tracker1"
+    }
+}

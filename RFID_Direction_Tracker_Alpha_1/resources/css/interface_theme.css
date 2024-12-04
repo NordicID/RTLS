@@ -1,0 +1,24 @@
+.tagIn {
+    color: green !important;
+    background-color: green !important;
+}
+.tagIn .x-titlebar {
+    background-color: green !important;
+}
+
+.tagIn .x-navigation-bar {
+    background-color: green !important;
+}
+
+
+.tagOut {
+    color: red !important;
+    background-color: red !important;
+}
+.tagOut .x-titlebar {
+    background-color: red !important;
+}
+
+.tagOut .x-navigation-bar {
+    background-color: red !important;
+}
